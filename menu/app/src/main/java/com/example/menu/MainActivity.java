@@ -30,9 +30,6 @@ public class MainActivity extends AppCompatActivity {
             case R.id.one:
                 Toast.makeText(this, "One", Toast.LENGTH_SHORT).show();
                 return true;
-            case R.id.two:
-                Toast.makeText(this, "Two", Toast.LENGTH_SHORT).show();
-                return true;
             case R.id.three:
                 Toast.makeText(this, "Two", Toast.LENGTH_SHORT).show();
                 return true;

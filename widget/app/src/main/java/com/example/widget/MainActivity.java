@@ -78,7 +78,7 @@ public class MainActivity extends AppCompatActivity {
                     s.append("Coke is selected. Rs 20\n");
 
                 }
-                if (c.isChecked()){
+                if (c4.isChecked()){
                     s.append("Fries is selected. Rs 50\n");
 
                 }
