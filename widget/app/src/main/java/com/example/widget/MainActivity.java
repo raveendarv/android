@@ -84,7 +84,7 @@ public class MainActivity extends AppCompatActivity {
                 }
 
                 StringBuffer x=new StringBuffer();
-                x.append(toggleButton.getText());
+                s.append(toggleButton.getText());
 
 
                 int c=radioGroup.getCheckedRadioButtonId();
