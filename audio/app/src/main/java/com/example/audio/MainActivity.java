@@ -18,7 +18,7 @@ public class MainActivity extends AppCompatActivity {
     public void PLAY(View v){
         if(player==null)
         {
-            player=MediaPlayer.create(this,R.raw.singappenne);
+            player=MediaPlayer.create(this,R.raw.ring);
             player.setOnCompletionListener(new MediaPlayer.OnCompletionListener() {
                 @Override
                 public void onCompletion(MediaPlayer mp) {
